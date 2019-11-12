@@ -9,8 +9,8 @@ var libIt = function() {
 	var value1= city.value;
 	var value2= adjective.value;
 	var value3= person.value
-	    storyDiv.innerHTML = "Il etait une fois, dans un monde qui sombre dans le chaos, un "+value2+" Diffuseur de Foi nommé "
-	    +value3+" venue de la lointaine contré "+value1+", sillonait les villes du monde pour annoncer la venue de La Sainte Parole";
+	    storyDiv.innerHTML = "Il etait une fois, dans un monde qui sombre dans le chaos, une "+value2+" marseillais nommé "
+	    +value3+" venue de la lointaine contré de "+value1+", sillonait les villes du monde pour annoncer la venue de Messi à l'OM";
     
 };
 libButton.addEventListener('click', libIt);
